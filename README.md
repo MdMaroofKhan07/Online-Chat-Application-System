@@ -155,11 +155,8 @@ http://localhost/online-chat-application
 
 Add screenshots of:
 
-* Login Page
-* Registration Page
-* User List Page
-* Chat Interface
-* Profile Section
+![Uploading image.png…]()
+
 
 ---
 
