@@ -1,3 +1,5 @@
+# Online Chat Application System
+
 ## 📌 Project Overview
 
 The Online Chat Application System is a web-based communication platform that allows users to register, log in, and exchange messages in real time. The system provides a simple, secure, and user-friendly environment for online communication using modern web technologies.
