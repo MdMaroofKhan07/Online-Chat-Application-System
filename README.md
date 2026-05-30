@@ -1,4 +1,4 @@
-# Online Chat Application System
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/37ead676-172a-4ac6-a562-0616ec97a601" /># Online Chat Application System
 
 ## 📌 Project Overview
 
@@ -149,16 +149,7 @@ http://localhost/online-chat-application
 * Demonstrate web application development concepts.
 * Improve understanding of PHP and MySQL integration.
 
----
 
-## 📸 Screenshots
-
-Add screenshots of:
-
-![Uploading image.png…]()
-
-
----
 
 ## 🔮 Future Enhancements
 
