@@ -1,5 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/37ead676-172a-4ac6-a562-0616ec97a601" /># Online Chat Application System
-
 ## 📌 Project Overview
 
 The Online Chat Application System is a web-based communication platform that allows users to register, log in, and exchange messages in real time. The system provides a simple, secure, and user-friendly environment for online communication using modern web technologies.
